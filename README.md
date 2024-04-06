@@ -2,9 +2,8 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on full-satck or front-end
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me devanshugarad1@gmail.com
+- ⚡ Fun fact: my favorite language is java.
 
 <!---
 Devanshu-1105/Devanshu-1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
