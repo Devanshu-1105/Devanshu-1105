@@ -1,11 +1,34 @@
-- 👋 Hi, I’m @Devanshu-1105
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on full-satck or front-end
-- 📫 How to reach me devanshugarad1@gmail.com
-- ⚡ Fun fact: my favorite language is java.
+# 👋 Hi, I'm Devanshu Garad  
 
-<!---
-Devanshu-1105/Devanshu-1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MCA (AI/ML) student at **Amity University** | 💻 BSc Computer Science graduate from **Nowrosjee Wadia College, Pune**  
+🐍 Aspiring **Python Developer** | 🤖 AI/ML Enthusiast | ✨ Skilled **AI Prompter**  
+
+---
+
+## 🚀 About Me
+- 🔭 Currently building projects in **Python, Flask, and SQLAlchemy**  
+- 🌱 Exploring **AI/ML, Generative AI tools, and Prompt Engineering**  
+- ⚡ Passionate about problem-solving and creating simple but impactful applications  
+- 🎯 Goal: Become a professional developer and contribute to AI-powered solutions  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, JavaScript (basic), HTML, CSS  
+**Frameworks & Libraries:** Flask, SQLAlchemy, Pandas, NumPy  
+**Databases:** SQLite, MySQL  
+**AI/ML:** Prompt Engineering, Generative AI Tools, ML Basics  
+**Tools:** Git, GitHub, Jupyter, VS Code  
+
+---
+
+
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/DevanshuGarad)  
+- 🐙 [GitHub](https://github.com/devanshu-1105)  
+- ✉️ Email: garaddevanshu@gmail.com
+
+---
+
+⭐️ *“Code. Learn. Improve. Repeat.”*  
